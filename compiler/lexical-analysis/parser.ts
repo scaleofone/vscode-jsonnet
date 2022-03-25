@@ -1,4 +1,4 @@
-import * as os from 'os';
+const os = { EOL: '\n' }
 
 import * as im from 'immutable';
 

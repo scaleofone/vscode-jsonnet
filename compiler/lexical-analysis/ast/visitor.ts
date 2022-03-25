@@ -1,7 +1,3 @@
-import * as server from 'vscode-languageserver';
-
-import * as im from 'immutable';
-
 import * as lexical from '../lexical';
 import * as tree from './tree';
 
